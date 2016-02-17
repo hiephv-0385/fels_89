@@ -21,3 +21,36 @@
 
 en:
   hello: "Hello world"
+  app_title: "E-learning App"
+  home_page_name: "Home"
+  signup_button_title: "Sign up now!"
+  welcome_title: "Welcome to the E-learning App"
+  home_content: "This is the home page for the"
+  about_page_title: "About"
+  about_page_header: "About page"
+  signup_title: "Sign up"
+  login_title: "Login"
+  logout_title: "Logout"
+  setting_title: "Settings"
+  email_label: "Email"
+  name_label: "Name"
+  password_label: "Password"
+  password_confirmation_label: "Confirmation"
+  remember_label: "Remember me on this computer"
+  user_creation_button_title: "Create my account"
+  user_creation_hint: "New user?"
+  error_message_prefix: "The form contains"
+  account_title: "Account"
+
+  sessions:
+    create:
+      invalid_notice: "Invalid email/password combination"
+
+  users:
+    create:
+      user_creation_success: "User has been created successfuly"
+
+  helpers:
+    sessions:
+      logged_in_user:
+        login_required: "Please log in."
